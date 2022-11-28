@@ -6,7 +6,7 @@
 python -m pip install -r required_packages.txt
 ```
 
-## How to get your dataset
+## How to access your data
 
 First, get your disorder of interest label from the clinical.admission.matched.csv columns. For example, if you want to analyze borderline personality disorder, your label would be SCID2PDBPDDX. Input this label when calling FreesurferCluster:
 
